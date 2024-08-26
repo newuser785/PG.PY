@@ -55,4 +55,4 @@ ID, Name, Age, Department
 (3, 'Fiona', 50, 'Finance')
 
 # Docker Hub
-Docker-образ doclinx/python-file-analyzer доступен по следующей ссылке: https://hub.docker.com/r/doclinx/python-file-analyzer
+Docker-образ doclinx/python-file-analyzer доступен по следующей ссылке: https://hub.docker.com/r/doclinx/python-file-analyzer/tags
