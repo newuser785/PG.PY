@@ -16,6 +16,12 @@
 
 ├── docker-compose.yml     # Docker Compose файл для координирования контейнеров
 
+## Screenshots
+
+├── docker.d  # docker desktop containers
+
+├── terminal-conclusion   # вывод с данными из таблицы `employees`:
+
 ## Как использовать
 
 ### Предварительные требования
