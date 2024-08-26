@@ -10,6 +10,8 @@
 
 ├── app.py        # Основной Python-скрипт
 
+├── README.md     # руководство по использованию
+
 ├── Dockerfile    # Dockerfile для сборки Docker-образа Python-приложения
 
 ├── docker-compose.yml     # Docker Compose файл для координирования контейнеров
@@ -24,3 +26,21 @@
 ### Шаги для запуска
 
 1. Клонируйте репозиторий:
+
+git clone https://github.com/newuser785/PG.PY.git
+
+cd PG.PY
+
+2. Запустите контейнеры с помощью Docker Compose:
+
+docker-compose up
+
+### Ожидаемый вывод
+
+После выполнения команды `docker-compose up` вы должны увидеть вывод с данными из таблицы `employees`:
+
+
+ID, Name, Age, Department
+(1, 'Danielle', 40, 'Finance')
+(2, 'Edward', 45, 'Legal')
+(3, 'Fiona', 50, 'Finance')
