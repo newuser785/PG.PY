@@ -41,6 +41,9 @@ docker-compose up
 
 
 ID, Name, Age, Department
+
 (1, 'Danielle', 40, 'Finance')
+
 (2, 'Edward', 45, 'Legal')
+
 (3, 'Fiona', 50, 'Finance')
